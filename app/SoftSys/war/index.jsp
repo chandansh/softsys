@@ -1,32 +1,5 @@
 <!DOCTYPE HTML>
-<!--
-	ZeroFour 1.0 by HTML5 Up!
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>ZeroFour by HTML5 Up!</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800" rel="stylesheet" type="text/css" />
-		<script src="js/jquery-1.8.3.min.js"></script>
-		<script src="css/5grid/init.js?use=mobile,desktop,1000px&amp;mobileUI=1&amp;mobileUI.theme=none"></script>
-		<script src="js/jquery.dropotron-1.2.js"></script>
-		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/5grid/core.css" />
-			<link rel="stylesheet" href="css/5grid/core-desktop.css" />
-			<link rel="stylesheet" href="css/5grid/core-1200px.css" />
-			<link rel="stylesheet" href="css/5grid/core-noscript.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-desktop.css" />
-		</noscript>
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
-		<!--[if lte IE 7]><link rel="stylesheet" href="css/ie7.css" /><![endif]-->
-	</head>
+<%@ include file="init.jsp" %>
 	<body class="homepage">
 
 		<!-- Header Wrapper -->
@@ -36,47 +9,7 @@
 						<div class="12u">
 						
 							<!-- Header -->
-								<header id="header">
-									<div class="inner">
-									
-										<!-- Logo -->
-											<h1><a href="#" class="mobileUI-site-name">SOFTSYS</a></h1>
-										
-										<!-- Nav -->
-											<nav id="nav" class="mobileUI-site-nav">
-												<ul>
-													<li class="current_page_item"><a href="index.html">Home</a></li>
-													<li>
-														<a href="services.html" class="arrow">Services</a>
-														<ul>
-															<li>
-																<span class="arrow">Portal Developement</span>
-																<ul>																	
-																	<li><a href="#">Liferay</a></li>
-																	<li><a href="#">Web Sphere</a></li>
-																	<li><a href="#">Web Logic</a></li>
-																</ul>
-															</li>
-															<li>
-																<span class="arrow">Training</span>
-																<ul>
-																	<li><a href="#">Java</a></li>
-																	<li><a href="#">Liferay</a></li>
-																	<li><a href="#">Spring</a></li>
-																	<li><a href="#">Hibernate & Other ORM's</a></li>
-																</ul>
-															</li>
-														</ul>
-													</li>
-													<li><a href="technology.html">Technology</a></li>
-													<li><a href="about-us.html">About Us</a></li>
-													<li><a href="contact-us.html">Contact Us</a></li>
-												</ul>
-											</nav>
-									
-									</div>
-								</header>
-
+							<%@ include file="header.jsp" %>
 							<!-- Banner -->
 								<div id="banner">
 									<h2><strong>SOFTSYS :</strong> We are the Solution provider for <br />
@@ -272,112 +205,5 @@
 			</div>
 
 		<!-- Footer Wrapper -->
-			<div id="footer-wrapper">
-				<footer id="footer" class="5grid-layout">
-					<div class="row">
-						<div class="3u">
-						
-							<!-- Links -->
-								<section>
-									<h2>Filler Links</h2>
-									<ul class="style2">
-										<li><a href="#">Quam turpis feugiat sit dolor</a></li>
-										<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
-										<li><a href="#">Semper mod quisturpis nisi</a></li>
-										<li><a href="#">Consequat etiam lorem phasellus</a></li>
-										<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
-										<li><a href="#">Ornare in hendrerit in lectus</a></li>
-										<li><a href="#">Semper mod quis eget mi dolore</a></li>
-										<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
-										<li><a href="#">Consequat etiam lorem phasellus</a></li>
-										<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
-										<li><a href="#">Semper mod quisturpis nisi</a></li>
-									</ul>
-								</section>
-						
-						</div>
-						<div class="3u">
-						
-							<!-- Links -->
-								<section>
-									<h2>More Filler</h2>
-									<ul class="style2">
-										<li><a href="#">Quam turpis feugiat sit dolor</a></li>
-										<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
-										<li><a href="#">Semper mod quisturpis nisi</a></li>
-										<li><a href="#">Consequat etiam lorem phasellus</a></li>
-									</ul>
-								</section>
-						
-							<!-- Links -->
-								<section>
-									<h2>Even More Filler</h2>
-									<ul class="style2">
-										<li><a href="#">Quam turpis feugiat sit dolor</a></li>
-										<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
-										<li><a href="#">Semper mod quisturpis nisi</a></li>
-										<li><a href="#">Consequat etiam lorem phasellus</a></li>
-									</ul>
-								</section>
-						
-						</div>
-						<div class="6u">
-						
-							<!-- About -->
-								<section>
-									<h2><strong>ZeroFour</strong> by HTML5 Up!</h2>
-									<p>Hello! This is <strong>ZeroFour</strong>, a free, fully responsive HTML5 site
-									template by <a href="http://n33.co/">n33</a> for <a href="http://html5up.net/">HTML5 Up!</a>
-									It's <a href="http://html5up.net/license/">Creative Commons Attribution</a>
-									licensed so use it for any personal or commercial project (just credit us
-									for the design!)</p>
-									<a href="http://html5up.net/" class="button button-alt button-icon button-icon-rarrow">More @ HTML5Up.net</a>
-								</section>
-						
-							<!-- Contact -->
-								<section>
-									<h2>Get in touch</h2>
-									<div class="5grid">
-										<div class="row">
-											<div class="6u">
-												<dl class="contact">
-													<dt>Twitter</dt>
-													<dd><a href="http://twitter.com/n33co">@n33co</a></dd>
-													<dt>Dribbble</dt>
-													<dd><a href="http://dribbble.com/n33">dribbble.com/n33</a></dd>
-													<dt>WWW</dt>
-													<dd><a href="http://n33.co">n33.co</a></dd>
-													<dt>Email</dt>
-													<dd><a href="mailto:aj%20-at-%20n33.co">aj -at- n33.co</a></dd>
-												</dl>
-											</div>
-											<div class="6u">
-												<dl class="contact">
-													<dt>Snail Mail</dt>
-													<dd>
-														1234 Fictional Rd<br />
-														Nashville, TN 00000-0000<br />
-														USA
-													</dd>
-													<dt>Phone</dt>
-													<dd>(000) 000-0000</dd>
-												</dl>
-											</div>
-										</div>
-									</div>
-								</section>
-						
-						</div>
-					</div>
-					<div class="row">
-						<div class="12u">
-							<div id="copyright">
-								&copy; Untitled. All rights reserved | Images: <a href="http://fotogrph.com/">Fotogrph</a> + <a href="http://iconify.it/">Iconify.it</a>
-							</div>
-						</div>
-					</div>
-				</footer>
-			</div>
-
+			<%@ include file="footer.jsp" %>
 	</body>
-</html>
