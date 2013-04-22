@@ -3,7 +3,7 @@
 									<div class="inner">
 									
 										<!-- Logo -->
-											<h1><a href="#" class="mobileUI-site-name">SOFTSYS</a></h1>
+											<h1><a href="index.jsp" class="mobileUI-site-name">SOFTSYS</a></h1>
 										
 										<!-- Nav -->
 											<nav id="nav" class="mobileUI-site-nav">
