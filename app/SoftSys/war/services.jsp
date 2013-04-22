@@ -197,6 +197,6 @@ Consultation:  A comprehensive consultation is done with the client to understan
 					</div>
 				</div>
 			</div>
-
+			</div>
 		<!-- Footer Wrapper -->
 			<%@ include file="footer.jsp" %>
