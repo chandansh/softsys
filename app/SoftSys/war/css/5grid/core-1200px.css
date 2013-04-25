@@ -8,6 +8,7 @@
 /*********************/
 
 	.\35 grid-layout {
-		width: 1200px;
+		/* width: 1200px; comment out for zoom out chandan*/
+		width: 1024px;
 		margin: 0 auto;
 	}
