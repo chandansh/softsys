@@ -22,33 +22,33 @@
 
 		<!-- Logo -->
 		<h1>
-			<a href="index.jsp" class="mobileUI-site-name">SOFTSYS</a>
+			<a href="/index.jsp" class="mobileUI-site-name">SOFTSYS</a>
 		</h1>
 
 		<!-- Nav -->
 		<nav id="nav" class="mobileUI-site-nav">
 			<ul>
-				<li class="current_page_item"><a href="index.jsp">Home</a></li>
-				<li><a href="services.jsp" class="arrow">Services</a>
+				<li><a href="/index.jsp">Home</a></li>
+				<li><a href="/services.jsp" class="arrow">Services</a>
 					<ul>
 						<li><span class="arrow">Developement</span>
 							<ul>
-								<li><span class="arrow">Portal</span>							
+								<li><span class="arrow"><a href="/services/development/portal.jsp">Portal</a></span>							
 									<ul>
-										<li><a href="#">Liferay</a></li>
-										<li><a href="#">Web Sphere</a></li>
-										<li><a href="#">Web Logic</a></li>
+										<li><a href="/services/development/portal.jsp">Liferay</a></li>
+										<li><a href="/services/development/portal.jsp">Web Sphere</a></li>
+										<li><a href="/services/development/portal.jsp">Web Logic</a></li>
 									</ul></li>
-								<li><span class="arrow">Middle Ware Developement</span>
+								<li><span class="arrow"><a href="/services/development/middleware.jsp">Middle Ware Developement</a></span>
 									<ul>
-										<li><a href="#">ESB Solution</a></li>
-										<li><a href="#">Web Services</a></li>
+										<li><a href="/services/development/middleware.jsp">ESB Solution</a></li>
+										<li><a href="/services/development/middleware.jsp">Web Services</a></li>
 									</ul></li>
-								<li><span class="arrow">Cloud</span>
+								<li><span class="arrow"><a href="/services/development/cloud.jsp">Cloud</a></span>
 									<ul>
-										<li><a href="#">Google</a></li>
-										<li><a href="#">Jelastic</a></li>
-										<li><a href="#">Amazon</a></li>
+										<li><a href="/services/development/cloud.jsp">Google</a></li>
+										<li><a href="/services/development/cloud.jsp">Jelastic</a></li>
+										<li><a href="/services/development/cloud.jsp">Amazon</a></li>
 									</ul></li>
 								<li><span class="arrow">Migration</span></li>
 							</ul></li>
@@ -68,9 +68,9 @@
 						<li><span class="arrow">UI Development</span></li>
 						<li><span class="arrow">Testing</span></li>
 					</ul></li>
-				<li><a href="technology.jsp">Technology</a></li>
-				<li><a href="about-us.jsp">About Us</a></li>
-				<li><a href="contact-us.jsp">Contact Us</a></li>
+				<li><a href="/technology.jsp">Technology</a></li>
+				<li><a href="/about-us.jsp">About Us</a></li>
+				<li><a href="/contact-us.jsp">Contact Us</a></li>
 			</ul>
 		</nav>
 			
