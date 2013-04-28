@@ -1,5 +1,5 @@
 <%@ include file="init.jsp" %>
-	<body class="left-sidebar">
+	<body class="left-sidebar">	
 		<!-- Header Wrapper -->
 		<div id="header-wrapper">
 				<div class="5grid-layout">
@@ -14,24 +14,15 @@
 				
 	<!-- Main Wrapper -->
 	<div id="main-wrapper">
-		<div class="main-wrapper-style2">
-			<div class="inner">
+		<div class="main-wrapper-style2 contactus">
+			<div class="inner ">
 				<div class="5grid-layout">
 					<div class="row">
 						<div class="12u mobileUI-main-content">
-							<div id="content">
-
-								<!-- Content -->
-
 								<article>
-									<header class="major">
-										<h2>Contact Us</h2>
-									</header>
 									<span class="image image-full"><img
 										src="images/contact_us.png" alt="" /></span>
 								</article>
-
-							</div>
 						</div>
 					</div>
 				</div>
@@ -43,10 +34,11 @@
 					<div class="4u">
 						<p>
 							<h2>Contact Details</h2>
-							<span> Softsys 10319 Sandbar Dr, Irving,
-							Texas-75063, US
-							</span> Picture 001 9132219164
-							SoftsysConsulting@gmail.com
+							<h5>Address 1</h5>
+							<div> Softsys 10319</div>
+							<div>Sandbar Dr, Irving,Texas-75063, US</div>
+							<div><span><strong>contact no :</strong> 001 9132219164</span></div>
+							<div><span><strong>email @ :</strong>SoftsysConsulting@gmail.com</span></div>
 						</p>
 					</div>
 					<div class="8u mobileUI-main-content">
@@ -80,21 +72,14 @@
 									</p>
 								</fieldset>
 							</form>
-
-
 						</div>
 					 </div>
-					</div>
-				  </div>
-                </div>
-				</div>
+				 </div>
+			 </div>
+         </div>
+	</div>
 
 				<!-- Footer Wrapper -->
 			<%@ include file="footer.jsp" %>
 </body>
 
-<script type="text/javascript">
-	$(document).ready(function() {
-		$("#commentForm").validate();
-	});
-</script>
