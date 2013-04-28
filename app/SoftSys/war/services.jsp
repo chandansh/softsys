@@ -99,13 +99,12 @@
 													<h2>Services Provided By Us</h2>
 												</header>
 												<ul class="style2">
-													<li><a href="#" onclick="displayWPD()">Web Portal Developement</a></li>
-													<li><a href="#" onclick="displayTC()">Telecom Product</a></li>
-													<li><a href="#" onclick="displayHC()">Health Care</a></li>
-													<li><a href="#" onclick="displayIC()">Intranet Solution</a></li>
-													<li><a href="#" onclick="displayEL()">E-Learning</a></li>
-													<li><a href="#" onclick="displayEC()">E-Cummerse</a></li>
-													<li><a href="#" onclick="displayTrv()">Travel</a></li>
+													<li><a href="#" onclick="displayWPD()">Developement</a></li>
+													<li><a href="#" onclick="displayTC()">Training</a></li>
+													<li><a href="#" onclick="displayHC()">Big Data Analysis</a></li>
+													<li><a href="#" onclick="displayIC()">Support</a></li>
+													<li><a href="#" onclick="displayEL()">UI-Developement</a></li>
+													<li><a href="#" onclick="displayEC()">Testing</a></li>
 												</ul>												
 											</section>
 								
@@ -119,7 +118,7 @@
 													<span class="byline">24*7 for client always</span>
 												</header>
 												
-												<span class="image image-full"><img src="images/pic08.jpg" alt="" /></span>
+												<span class="image image-full"><img src="images/services.jpg" alt="" /></span>
 												
 												<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. 
 												Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. 

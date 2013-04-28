@@ -87,7 +87,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="main-wrapper-style3">
+				<div class="main-wrapper-style3" style="display: none;">
 					<div class="inner">
 						<div class="5grid-layout">
 							<div class="row">

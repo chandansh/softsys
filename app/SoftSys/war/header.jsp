@@ -68,7 +68,30 @@
 						<li><span class="arrow">UI Development</span></li>
 						<li><span class="arrow">Testing</span></li>
 					</ul></li>
-				<li><a href="/technology.jsp">Technology</a></li>
+				<li><a href="/technology.jsp">Technology</a>
+				<ul>
+						<li><span>Java</span></li>
+						<li><span>Lifeary</span></li>
+						<li><span>Spring</span></li>
+						<li><span>Hibernate</span></li>
+						<li><span>Ajax/jQuery</span></li>
+						<li><span>JSON/Xml</span></li>
+						<li><span>MongoDB</span></li>
+						<li><span>Hoodup</span></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/solution.jsp">Solution</a>
+					<ul>
+						<li><span>Web Portal Developement</span></li>
+						<li><span>Telecom Product</span></li>
+						<li><span>Health Care</span></li>
+						<li><span>Intranet Solution</span></li>
+						<li><span>E-Learning</span></li>
+						<li><span>E-Commerce</span></li>
+						<li><span>Travel</span></li>
+					</ul>
+				</li>
 				<li><a href="/about-us.jsp">About Us</a></li>
 				<li><a href="/contact-us.jsp">Contact Us</a></li>
 			</ul>

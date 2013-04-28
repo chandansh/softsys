@@ -79,7 +79,7 @@
 
 					</div>
 				</div>
-				<div class="main-wrapper-style2">
+				<div class="main-wrapper-style2" style="display: none;">
 					<div class="inner">
 				
 						<!-- Feature 2 -->
@@ -120,7 +120,7 @@
 
 						</div>
 				</div>
-				<div class="main-wrapper-style3">
+				<div class="main-wrapper-style3" style="display: none;">
 					<div class="inner">
 						<div class="5grid-layout">
 							<div class="row">

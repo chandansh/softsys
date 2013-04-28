@@ -46,9 +46,9 @@
 										<dd>
 											<a href="http://twitter.com/n33co">@n33co</a>
 										</dd>
-										<dt>Dribbble</dt>
+										<dt>Facebook</dt>
 										<dd>
-											<a href="http://dribbble.com/n33">dribbble.com/n33</a>
+											<a href="http://facebook.com/softsys">dribbble.com/n33</a>
 										</dd>
 										<dt>WWW</dt>
 										<dd>
