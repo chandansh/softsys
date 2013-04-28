@@ -2,6 +2,7 @@
 <script type="text/javascript">
 		function displayWPD(){
 			jQuery(".portal-Dev").css("display","block");
+			jQuery(".defultService").css("display","none");
 			jQuery(".telecom").css("display","none");
 			jQuery(".health").css("display","none");
 			jQuery(".intranet").css("display","none");
@@ -10,6 +11,7 @@
 			jQuery(".travel").css("display","none");
 		}
 		function displayTC(){
+			jQuery(".defultService").css("display","none");
 			jQuery(".portal-Dev").css("display","none");
 			jQuery(".telecom").css("display","block");
 			jQuery(".health").css("display","none");
@@ -19,6 +21,7 @@
 			jQuery(".travel").css("display","none");
 		}
 		function displayHC(){
+			jQuery(".defultService").css("display","none");
 			jQuery(".portal-Dev").css("display","none");
 			jQuery(".telecom").css("display","none");
 			jQuery(".health").css("display","block");
@@ -28,6 +31,7 @@
 			jQuery(".travel").css("display","none");
 		}
 		function displayIC(){
+			jQuery(".defultService").css("display","none");
 			jQuery(".portal-Dev").css("display","none");
 			jQuery(".telecom").css("display","none");
 			jQuery(".health").css("display","none");
@@ -37,6 +41,7 @@
 			jQuery(".travel").css("display","none");
 		}
 		function displayEL(){
+			jQuery(".defultService").css("display","none");
 			jQuery(".portal-Dev").css("display","none");
 			jQuery(".telecom").css("display","none");
 			jQuery(".health").css("display","none");
@@ -46,6 +51,7 @@
 			jQuery(".travel").css("display","none");
 		}
 		function displayEC(){
+			jQuery(".defultService").css("display","none");
 			jQuery(".portal-Dev").css("display","none");
 			jQuery(".telecom").css("display","none");
 			jQuery(".health").css("display","none");
@@ -55,6 +61,7 @@
 			jQuery(".travel").css("display","none");
 		}
 		function displayTrv(){
+			jQuery(".defultService").css("display","none");
 			jQuery(".portal-Dev").css("display","none");
 			jQuery(".telecom").css("display","none");
 			jQuery(".health").css("display","none");
@@ -105,6 +112,38 @@
 									</div>
 								</div>
 								<div class="8u mobileUI-main-content">
+								<div class="defultService">
+								  <article>
+												<header class="major">
+													<h2>We Provide services with 100% client Satisfaction</h2>
+													<span class="byline">24*7 for client always</span>
+												</header>
+												
+												<span class="image image-full"><img src="images/pic08.jpg" alt="" /></span>
+												
+												<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. 
+												Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. 
+												Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi 
+												consequat etiam lorem ipsum dolor sit amet nullam.</p>
+												
+												<h3>More intriguing information</h3>
+												<p>We stay with coustumer upto end and after end also at any time. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus 
+												justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis, 
+												ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet 
+												vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor. 
+												Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis 
+												rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien. 
+												Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi. 
+												Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.</p>
+
+												<p>Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim 
+												quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu. 
+												Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna, 
+												fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium. 
+												Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu. 
+												Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.</p>
+											</article>
+								</div>
 								<div class="portal-Dev">
 								  	<p>
 								   		<h3>Portal Services</h3>
