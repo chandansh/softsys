@@ -28,9 +28,9 @@
 													<h2>Technologies</h2>
 												</header>
 												<ul class="style2">
-													<li><a href="#">Java</a></li>
-													<li><a href="#">Liferay</a></li>
-													<li><a href="#">Spring</a></li>
+													<li><a href="/technology/java.jsp">Java</a></li>
+													<li><a href="/technology/liferay.jsp">Liferay</a></li>
+													<li><a href="/technology/spring.jsp">Spring</a></li>
 													<li><a href="#">Struts</a></li>
 													<li><a href="#">Oracle</a></li>
 													<li><a href="#">Mongo DB</a></li>
@@ -52,11 +52,11 @@
 									
 											<article>
 												<header class="major">
-													<h2>Left Sidebar</h2>
-													<span class="byline">Which means the sidebar is on the left</span>
+													<h2>Technologies</h2>
+													<span class="byline">We are open towards any technology...!</span>
 												</header>
 												
-												<span class="image image-full"><img src="images/pic08.jpg" alt="" /></span>
+												<span class="image image-full"><img src="images/technologies.jpg" alt="" /></span>
 												
 												<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. 
 												Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. 

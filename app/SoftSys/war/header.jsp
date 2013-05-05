@@ -62,7 +62,7 @@
 						<li><span class="arrow">Big data analysis</span>
 							<ul>
 								<li><a href="#">MongoDB</a></li>
-								<li><a href="#">Hoodup</a></li>
+								<li><a href="#">Hadoop</a></li>
 							</ul></li>							
 						<li><span class="arrow">Support</span></li>
 						<li><span class="arrow">UI Development</span></li>
@@ -70,26 +70,26 @@
 					</ul></li>
 				<li><a href="/technology.jsp">Technology</a>
 				<ul>
-						<li><span>Java</span></li>
-						<li><span>Lifeary</span></li>
-						<li><span>Spring</span></li>
-						<li><span>Hibernate</span></li>
-						<li><span>Ajax/jQuery</span></li>
-						<li><span>JSON/Xml</span></li>
-						<li><span>MongoDB</span></li>
-						<li><span>Hoodup</span></li>
+						<li><a href="/technology/java.jsp"><span>Java</span></li>
+						<li><a href="/technology/liferay.jsp"><span>Lifeary</span></li>
+						<li><a href="/technology/spring.jsp"><span>Spring</span></li>
+						<li><a href="/technology/hibernate.jsp"><span>Hibernate</span></li>
+						<li><a href="/technology/ajaxJquery.jsp"><span>Ajax/jQuery</span></li>
+						<li><a href="/technology/jsonXml.jsp"><span>JSON/Xml</span></li>
+						<li><a href="/technology/mongoDB.jsp"><span>MongoDB</span></li>
+						<li><a href="/technology/hoodup.jsp"><span>Hoodup</span></a></li>
 					</ul>
 				</li>
 				<li>
 					<a href="/solution.jsp">Solution</a>
 					<ul>
-						<li><span>Web Portal Developement</span></li>
-						<li><span>Telecom Product</span></li>
-						<li><span>Health Care</span></li>
-						<li><span>Intranet Solution</span></li>
-						<li><span>E-Learning</span></li>
-						<li><span>E-Commerce</span></li>
-						<li><span>Travel</span></li>
+						<li><span><a href="/solution/portalDev.jsp">Web Portal Developement</a></span></li>
+						<li><a href="/solution/telecom.jsp"><span>Telecom Product</span></a></li>
+						<li><a href="/solution/health.jsp"><span>Health Care</span></a></li>
+						<li><a href="/solution/intranet.jsp"><span>Intranet Solution</span></a></li>
+						<li><a href="/solution/eLearning.jsp"><span>E-Learning</span></a></li>
+						<li><a href="/solution/eCommerce.jsp"><span>E-Commerce</span></a></li>
+						<li><a href="/solution/travel.jsp"><span>Travel</span></a></li>
 					</ul>
 				</li>
 				<li><a href="/about-us.jsp">About Us</a></li>

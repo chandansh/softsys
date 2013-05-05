@@ -119,7 +119,7 @@
 													<span class="byline">24*7 for client always</span>
 												</header>
 												
-												<span class="image image-full"><img src="images/services.jpg" alt="" /></span>
+												<span class="image image-full"><img src="images/solutions.jpg" alt="" /></span>
 												
 												<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. 
 												Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. 
