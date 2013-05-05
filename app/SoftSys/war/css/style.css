@@ -705,3 +705,13 @@ section, article {
 /* .main-wrapper-style2, .contactus{
 	 padding-top: 3px;
 } */
+
+.dropotron a, .dropotron span{
+	color: #AAAAAA;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.075em;
+    outline: 0 none;
+    text-decoration: none;
+    text-transform: uppercase;
+}
