@@ -708,8 +708,8 @@ section, article {
 
 .dropotron a, .dropotron span{
 	color: #AAAAAA;
-    font-size: 10px;
-    font-weight: 800;
+    font-size: 10px !important;
+    font-weight: 800 !important;
     letter-spacing: 0.075em;
     outline: 0 none;
     text-decoration: none;
