@@ -34,11 +34,17 @@
 					<div class="4u">
 						<p>
 							<h2>Contact Details</h2>
-							<h5>Address 1</h5>
-							<div> Softsys 10319</div>
+							<h5>US Address</h5>
+							<div>Softsys 10319</div>
 							<div>Sandbar Dr, Irving,Texas-75063, US</div>
-							<div><span><strong>contact no :</strong> 001 9132219164</span></div>
-							<div><span><strong>email @ :</strong>SoftsysConsulting@gmail.com</span></div>
+							<div><span><strong>contact no :</strong>001 9132219164</span></div>
+							<br>
+							<h5>INDIA Address</h5>
+							<div>Softsys #58</div>
+							<div>1st floor, Jayanagar 2nd Phase,</div>
+							<div>Bangalore 560078, India</div>
+							<div><span><strong>contact no :</strong> +91 7795574824</span></div>
+							<div><span><strong>email @ :</strong>info@softsys.com</span></div>
 						</p>
 					</div>
 					<div class="8u mobileUI-main-content">

@@ -42,7 +42,8 @@ body.right-sidebar #sidebar {
 }
 
 body.homepage #header-wrapper {
-	height: 43em;
+	/* height: 43em; */
+	height: 35em;
 }
 
 #banner-wrapper {
@@ -192,7 +193,7 @@ body.homepage #header-wrapper {
 #banner {
 	width: 940px;
 	margin: 0 auto;
-	padding: 5em 0 0 0;
+	/* padding: 5em 0 0 0; */
 	overflow: hidden;
 }
 

@@ -13,9 +13,9 @@
 							<!-- Banner -->
 								<div id="banner">
 									<h2><strong>SOFTSYS :</strong> We are the Solution provider for <br />
-									Java and Liferay<a href="http://html5up.net"></a></h2>
-									<p>Does this statement make you want to click the shiny blue button?</p>
-									<a href="#" class="button button-big button-icon button-icon-check">Yes it does</a>
+									Java, Liferay and opensource Technology </h2>
+									<p>If You are thinking for Innovative and one stop solution</p>
+									<a href="/contact-us.jsp" class="button button-big button-icon button-icon-check">Contact Us</a>
 								</div>
 
 						</div>
@@ -33,46 +33,46 @@
 								<div class="row">
 									<div class="12u">
 										<header class="first major">
-											<h2>This is an important heading</h2>
-											<span class="byline">And this is where we talk about why we’re <strong>pretty awesome</strong> ...</span>
+											<h2>We Provide the Solution in openSource technology</h2>
+											<span class="byline">We mostly work for 100% <strong>Client Satisfaction</strong> ...</span>
 										</header>
 									</div>
 								</div>
 								<div class="row">
 									<div class="4u">
 										<section>
-											<span class="image image-full"><img src="images/pic01.jpg" alt="" /></span>
-											<header class="second second-friends">
-												<h3>OMFG Whats That</h3>
-												<span class="byline">Nevermind its just a wall lol</span>
-											</header>
-										</section>
-									</div>
-									<div class="4u">
-										<section>
-											<span class="image image-full"><img src="images/pic02.jpg" alt="" /></span>
+											<span class="image image-full"><img src="images/servicemix.jpg" alt="" /></span>
 											<header class="second second-gear">
-												<h3>Really Close Up</h3>
-												<span class="byline">This looks pretty harmless</span>
+												<h3>Middle ware Solution</h3>
+												<span class="byline">Solution for large Application</span>
 											</header>
 										</section>
 									</div>
 									<div class="4u">
 										<section>
-											<span class="image image-full"><img src="images/pic03.jpg" alt="" /></span>
-											<header class="second second-chart">
-												<h3>Pretty Blue LEDs</h3>
-												<span class="byline">Just so many of them man</span>
+											<span class="image image-full"><img src="images/liferay.jpg" alt="" /></span>
+											<header class="second second-friends">
+												<h3>Portal Solution</h3>
+												<span class="byline">Public and Intranet Portals</span>
+											</header>
+										</section>
+									</div>
+									<div class="4u">
+										<section>
+											<span class="image image-full"><img src="images/camel.jpg" alt="" /></span>
+											<header class="second second-gear">
+												<h3>Routing Solution</h3>
+												<span class="byline">For large web-service Routing</span>
 											</header>
 										</section>
 									</div>
 								</div>
 								<div class="row">
 									<div class="12u">
-										<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper 
-										bibendum ipsum, et tristique augue fringilla eu. Vivamus id risus vel dolor auctor euismod 
-										quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus mattis lectus sit 
-										amet pulvinar. Nam nec turpis.</p>
+										<p>Softsys solution worked over 50+ Open Source solutions (Portals, Content, Middle ware, IDM, Big Data) since year 2005, 
+										we work closely with our client to understand the need of the application and give the better solution and approach for 
+										product and services. we have an expert team for each technology so we are providing best solution for each and every solution.
+										</p>
 									</div>
 								</div>
 							</section>
