@@ -24,7 +24,7 @@
 							
 				<!-- header -->
 				<header class="header">
-					<h1 id="logo"><a href="#">Proper</a></h1>
+					<h1 id="logo"><a href="#">SoftSys</a></h1>
 					<nav id="navigation">
 						<ul>
 							<li class="active"><a href="#">Home</a></li>
