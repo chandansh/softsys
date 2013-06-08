@@ -26,19 +26,19 @@ textarea { overflow: auto; }
 
 #wrapper { padding-top: 20px; }
 
-.shell { margin: 0 auto; width: 956px; }
+.shell { padding-bottom: 20px; margin: 0 auto; width: 956px; }
 .container { 
 	background: #fff;  
 	box-shadow: 0px 0px 7px rgba(0,0,0,0.3); -moz-box-shadow: 0px 0px 7px rgba(0,0,0,0.3); -webkit-box-shadow: 0px 0px 7px rgba(0,0,0,0.3); -o-box-shadow: 0px 0px 7px rgba(0,0,0,0.3);
 	border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px;
 }
 
-.header { padding: 32px 32px 16px;  }
+.header { padding: 0px 32px 16px;  }
 #logo { width: 149px; float: left; }
 #logo a { height: 48px; display: block; background: url(images/logo.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; }
 
 #navigation { height: 35px; line-height: 35px; float: right; position: relative; z-index: 20; }
-#navigation ul { list-style: none; list-style-position: outside; font-size: 13px; text-shadow: rgba(255,255,255,0.5) 0px 1px 1px; }
+#navigation ul { margin-top: 40px; list-style: none; list-style-position: outside; font-size: 13px; text-shadow: rgba(255,255,255,0.5) 0px 1px 1px; }
 #navigation ul li { float: left; position: relative; padding-right: 2px; background: url(images/navigation-border.png) no-repeat right 0; }
 #navigation ul > li.last { background: transparent; width: auto; float: left; padding-right: 0; }
 #navigation ul > li.last a { border-radius: 0px 5px 5px 0px; -moz-border-radius: 0px 5px 5px 0px; -webkit-border-radius: 0px 5px 5px 0px; -o-border-radius: 0px 5px 5px 0px; border-right: 1px solid #d7e1e8 !important; }
@@ -93,7 +93,7 @@ section { padding: 0 32px 27px; }
 
 .cols .col a.col-btn:hover { background-position: 0 bottom; text-decoration: none; }
 
-.box { background: url(images/box.png) repeat 0 0; padding: 19px 32px 29px 32px; position: relative; height: 100%;  }
+.box { background: url(images/box.png) repeat 0 0; padding: 20px 32px 20px 32px; position: relative; }
 .box span.shadow-t { width: 956px; height: 11px; background: url(images/box-shadow-t.png) no-repeat 0 0; position: absolute; top: 0; left: 0; display: block;}
 .box span.shadow-b { width: 956px; height: 11px; background: url(images/box-shadow-b.png) no-repeat 0 0; position: absolute; bottom: -4px; left: 0; display: block;}
 .box h3 { float: left; }
@@ -104,7 +104,7 @@ section { padding: 0 32px 27px; }
 .entries .entry + .entry { margin-left: 17px; }
 .entries .entry span.shadow { background: url(images/entry-shadow.png) no-repeat 0 0; width: 197px; height: 6px; position: absolute; bottom: -6px; left: 5px; display: block; }
 
-.services { border-top: 3px solid #fff; background: url(images/services.png) repeat-x 0 0; padding-top: 23px; }
+.services { border-top: 0px solid #fff; background: url(images/services.png) repeat-x 0 0; padding-top: 23px; padding-bottom: 20px; padding-top: 20px;}
 .services h3 { padding-bottom: 14px; }
 .services p { padding-bottom: 15px; }
 .services .widget { float: left; width: 435px; }
@@ -123,12 +123,23 @@ filter:alpha(opacity=70); }
 .services .socials-widget a.skype-ico { background-position: -144px 0; }
 .services .socials-widget a.google-ico { background-position: -180px 0; }
 
-.footer { padding: 18px 0 64px 0;  }
+.footer { padding: 0 0 30px 0;  }
 .footer-nav { float: left; }
 .footer-nav ul { list-style: none; list-style-position: outside; font-size: 11px;  }
 .footer-nav ul li { float: left; padding-right: 33px; }
 .footer-nav ul li a { color: #a6abb2; }
 .footer-nav ul li a:hover { color: #3995d6; text-decoration: none; }
-.footer p.copy { float: right; font-size: 11px; color: #a6abb2; }
+.footer p.copy { float: right; font-size: 11px; color: #a6abb2; margin-right: 42px;}
 .footer p.copy a { color: #8c929b; text-decoration: underline; }
 .footer p.copy a:hover { color: #3995d6; text-decoration: none; }
+
+/* New entries */
+.layout1 { background-color: #DFEDFD;}
+.layout1 ul li { list-style-image: url("images/bullet.png");}
+.layout1 { width: 300px; float: left; margin-left: 33px;}
+.layout2 { width: 550px; float: left;}
+.frmDiv { margin-left: 103px;}
+.banner img { height: 156px; width: 900px; padding-left: 26px; padding-right: 26px;}
+.cols .col1 { width: 400px; float: left; }
+
+.aboutUs {padding: 20px 26px; }
