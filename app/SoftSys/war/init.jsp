@@ -15,8 +15,14 @@
 			<link rel="stylesheet" href="/css/5grid/core-noscript.css" />
 			<link rel="stylesheet" href="/css/style.css" />
 			<link rel="stylesheet" href="/css/style-desktop.css" />
+			<link rel="stylesheet" href="/css/style-mobile.css" />
 		</noscript>
 		<!--[if lte IE 9]><link rel="stylesheet" href="/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 7]><link rel="stylesheet" href="/css/ie7.css" /><![endif]-->
+		<script type="text/javascript">
+		jQuery(document).ready(function(){
+			jQuery("#commentForm").validate();
+		});
+		</script>
 </head>
