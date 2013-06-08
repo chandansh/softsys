@@ -41,6 +41,24 @@
 						</ul>
 					</div>
 					<!-- end of slider -->
+					<section class="partners">
+					<div id="partners-slider">
+						<div class="slider-holder2">
+						    <img src="css/images/partners1.png" width="92" height="52" />
+						    <img src="css/images/partners2.png" width="172" height="52" />
+						    <img src="css/images/partners3.png" width="236" height="52" />
+						    <img src="css/images/partners4.png" width="121" height="52" />
+						    <img src="css/images/partners1.png" width="92" height="52" />
+						    <img src="css/images/partners2.png" width="172" height="52" />
+						    <img src="css/images/partners3.png" width="236" height="52" />
+						    <img src="css/images/partners4.png" width="121" height="52" />
+						</div>
+					</div>
+					<div class="slider-arr">
+						<a class="prev-arr arr-btn" href="#"></a>
+						<a class="next-arr arr-btn" href="#"></a>
+					</div>
+				</section>
 					<!-- cols -->
 					<!-- cols -->
 					<section class="cols">
