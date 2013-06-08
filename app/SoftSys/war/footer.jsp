@@ -7,11 +7,11 @@
 
 				<!-- Links -->
 				<section>
-					<h2>Filler Links</h2>
+					<h2></h2>
 					<ul class="style2">
-						<li><a href="#">Quam turpis feugiat sit dolor</a></li>
-						<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
-						<li><a href="#">Semper mod quisturpis nisi</a></li>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Development</a></li>
+						<li><a href="#">Services</a></li>
 					</ul>
 				</section>
 
@@ -20,17 +20,11 @@
 
 				<!-- Links -->
 				<section>
-					<h2>More Filler</h2>
+					<h2></h2>
 					<ul class="style2">
-						<li><a href="#">Quam turpis feugiat sit dolor</a></li>
-					</ul>
-				</section>
-
-				<!-- Links -->
-				<section>
-					<h2>Even More Filler</h2>
-					<ul class="style2">
-						<li><a href="#">Quam turpis feugiat sit dolor</a></li>
+						<li><a href="#">Terms of use</a></li>
+						<li><a href="#">Privacy Policy</a></li>
+						<li><a href="#">Site Map</a></li>
 					</ul>
 				</section>
 
