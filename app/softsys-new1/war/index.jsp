@@ -51,7 +51,7 @@
 			<div id="content">
 				<div class="post">
 					<h3>Portal Solution</h3>
-					<p><strong>We</strong> provide broad range of portal solution. These days portal solution are used as external and internal services. we provide the solution for intranet portals as well as external portals </p>
+					<p><strong>Sofsys</strong> implements the solution on the latest and leading portal solution. These days portal solution are used as external and internal services. we provide the solution for intranet portals as well as external portals </p>
 					<p class="italic">We mostly work on open source portals <strong>Liferay</strong> is one of them.</p>
 					<p>Basically we are working on these portals.</p>
 					<ul>
@@ -64,14 +64,16 @@
 				<div class="post">
 					<h3>Middle ware Solution</h3>
 					<!-- <img src="css/images/col-img.jpg" alt="Country road leading towards a mountain in the distance" /> -->
-					<p>We provide the services for <strong>Middle ware</strong> service Integration.</p>
+					<p>We provide the services for leading <strong>Middle ware</strong> service Integration.</p>
 					<p>We mostly deal in open source middle ware solution. and web service exposure with <strong>AXIS2, Spring web services and CXF.</strong></p>
 					<ul>
 						<li>Servicemix</li>
+						<li>ActiveMQ</li>
 						<li>Camel</li>
 						<li>Mule</li>
 						<li>AXIS2</li>
 						<li>CXF</li>
+						<li>SpringWS</li>
 					</ul>
 					<span class="read-more"><a title="read more" href="#">Read More</a></span>
 				</div>
