@@ -62,7 +62,7 @@
 							</tr>
 							<tr>
 								<td><label for="ccomment">Your comment <em>*</em></label></td>
-								<td><textarea id="ccomment" name="comment" cols="22" class="required"></textarea></td>
+								<td><textarea id="ccomment" name="comment" cols="50" class="required"></textarea></td>
 							</tr>
 							<tr>
 								<td><input class="submit" type="submit" value="Submit" /></td>

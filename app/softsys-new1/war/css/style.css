@@ -146,3 +146,6 @@ filter:alpha(opacity=70); }
 .address { padding: 8px;}
 td label { font-size: 13px;font-weight:bold; font-style: italic;}
 .address h3 {color: #85868B; font-weight:bold; font-size: 15px;}
+.content {
+	text-align: justify;
+}
