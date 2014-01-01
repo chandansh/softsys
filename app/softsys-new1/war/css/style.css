@@ -25,7 +25,14 @@ textarea { overflow: auto; }
 
 #header { background: #333333; }
 
-#logo { padding: 28px 0 0 21px; }
+#logo { 
+	 /* padding: 28px 0 0 21px;   */
+}
+
+#logo a img{ 
+	height : 90px;
+	padding : 5px;
+}
 #logo .slogan { font-size: 10px; line-height: 12px; color: #FFFFFF; text-transform: uppercase; }
 /* #logo a { display: block; width: 191px; height: 38px; font-size: 0; line-height: 0; text-indent: -4000px; background: url(images/logo.png) no-repeat 0 0; } */
 #logo a { display: block; width: 191px; height: 38px; font-size: 15; line-height: 0; color: #FFFFFF;}

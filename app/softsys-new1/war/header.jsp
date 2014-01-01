@@ -15,8 +15,8 @@
 		<!-- END Navigation -->
 		<!-- Logo -->
 		<div id="logo">
-			<h1><a href="/" title="home">SOFTSYS</a></h1>
-			<p class="slogan">Innovative development</p>
+			<a href="/"><img src="/css/images/logo2.png"/></a>
+			<!-- <p class="slogan">Innovative development</p> -->
 		</div>
 		<div class="cl"></div>
 	</div>	
